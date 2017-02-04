@@ -1,0 +1,44 @@
+{
+  "options": [
+    {
+      "key": "material-identification",
+      "value": "Material Identification"
+    },
+    {
+      "key": "visual-inspection",
+      "value": "Visual Inspection"
+    },
+    {
+      "key": "manufacturing-processes",
+      "value": "Manufacturing Processes"
+    },
+    {
+      "key": "preliminary-acceptance",
+      "value": "Preliminary Acceptance"
+    },
+    {
+      "key": "final-acceptance",
+      "value": "Final Acceptance"
+    },
+    {
+      "key": "witness-electrical-testing",
+      "value": "Witness Electrical Testing"
+    },
+    {
+      "key": "witness-sweep-testing",
+      "value": "Witness Sweep Testing"
+    },
+    {
+      "key": "evaluation-of-test-reports",
+      "value": "Evaluation of Test Reports"
+    },
+    {
+      "key": "dimensional-control",
+      "value": "Dimensional Control"
+    },
+    {
+      "key": "documentation-control",
+      "value": "Documentation Control (including Data Books and Qc Plans As Applicable)"
+    }
+  ]
+}
