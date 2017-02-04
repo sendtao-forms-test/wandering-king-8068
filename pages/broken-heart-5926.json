@@ -1,0 +1,206 @@
+{
+  "title": "Antennas and Feed lines",
+  "sections": [
+    {
+      "id": "nameless-block-9431",
+      "title": "Antenna Mounts",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "patient-silence-7454",
+          "title": "Corrosion",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "blue-sound-6434",
+          "title": "Bent, broken or cracked",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "bitter-snow-0204",
+          "title": "Loose mountings",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "snowy-pond-5697",
+          "title": "Missing mountings",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "white-dawn-0813",
+          "title": "Adjustment brackets secure and locked",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    },
+    {
+      "id": "shrill-pine-6977",
+      "title": "Antennas",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "young-lake-3667",
+          "title": "Dent, broken or cracked",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "long-mountain-0701",
+          "title": "Antennas - Loose",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "broken-violet-3262",
+          "title": "Antennas - Water proofing",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "tiny-mud-6901",
+          "title": "Antennas - Identification labels",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "gentle-feather-7912",
+          "title": "Antennas - General condition",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "morning-disk-0941",
+          "title": "Antennas - Type",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "twilight-breeze-6555",
+          "title": "Antennas - Dimension",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "spring-mouse-7631",
+          "title": "Antennas - Height",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    },
+    {
+      "id": "white-fog-9007",
+      "title": "Feed Lines (waveguide, coax, etc)",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "weathered-cell-3981",
+          "title": "Hangers and supports - Condition",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "bold-breeze-8786",
+          "title": "Dents",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "white-resonance-6318",
+          "title": "Abrasions",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "misty-fire-4776",
+          "title": "Holes",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "super-cloud-8847",
+          "title": "Leaks",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "shiny-queen-0825",
+          "title": "Hangers and supports - Corrosion condition",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "shrill-water-3242",
+          "title": "Flanges and seals (check integrity)",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
