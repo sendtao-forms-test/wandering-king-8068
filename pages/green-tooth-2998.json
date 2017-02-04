@@ -1,0 +1,74 @@
+{
+  "title": "Site Audit Report",
+  "sections": [
+    {
+      "id": "tight-wood-6207",
+      "title": "Site Details",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "flat-bar-0176",
+          "title": "Site Details",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": [
+            {
+              "id": "broad-snowflake-3471",
+              "label": "Terrain Category",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "shrill-silence-1410",
+              "label": "Tower Identification Markings",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "ancient-butterfly-0049",
+              "label": "Tower Type",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "late-tooth-9200",
+              "label": "Tower Height",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "plain-rice-0105",
+              "label": "Tower Manufacturer",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "flat-math-2448",
+          "title": "Signature of Surveyor",
+          "description": "Signature",
+          "type": "SIGNATURE_QUESTION",
+          "array": false,
+          "validation": "required",
+          "attributes": [
+            {
+              "id": "proud-shape-8266",
+              "label": "Contact Number",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
