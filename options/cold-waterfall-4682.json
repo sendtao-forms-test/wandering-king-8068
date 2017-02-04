@@ -1,0 +1,12 @@
+{
+  "options": [
+    {
+      "key": "true",
+      "value": "Yes"
+    },
+    {
+      "key": "false",
+      "value": "No"
+    }
+  ]
+}
