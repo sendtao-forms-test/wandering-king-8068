@@ -1,0 +1,159 @@
+{
+  "title": "Site Progress Report",
+  "sections": [
+    {
+      "id": "round-wave-5600",
+      "type": "DEFAULT_SITE",
+      "title": "@parent",
+      "questions": [
+        {
+          "id": "aged-sound-4278",
+          "title": "Site Progress",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": [
+            {
+              "id": "noisy-tree-2928",
+              "label": "Suggest Corrective Action",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "twilight-band-4034",
+          "title": "HSE - Team Photo",
+          "description": "Photo of the Site Team",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "max:3",
+          "attributes": [
+            {
+              "id": "red-dew-8876",
+              "label": "Suggest Corrective Action",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "wild-poetry-6418",
+              "label": "Number of Employees on Site",
+              "type": "integer",
+              "description": null,
+              "validation": "required"
+            }
+          ]
+        },
+        {
+          "id": "crimson-snow-7176",
+          "title": "HSE - Attendance Register",
+          "description": "Photo of Attendance Register",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:1;max:5",
+          "attributes": [
+            {
+              "id": "odd-wave-6386",
+              "label": "Suggest Corrective Action",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "mute-sky-9200",
+              "label": "Confirm Date",
+              "type": "date",
+              "description": null,
+              "validation": "required"
+            }
+          ]
+        },
+        {
+          "id": "still-wood-5823",
+          "title": "Quality Control",
+          "description": "Photos of quality related findings and reports",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:2;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": [
+            {
+              "id": "square-cell-5304",
+              "label": "Suggest Corrective Action",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "broken-bush-5939",
+          "title": "Construction Checklist",
+          "description": "Photos of construction checklist and activities of the day",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:2;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": [
+            {
+              "id": "winter-bonus-4656",
+              "label": "Suggest Corrective Action",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "dark-darkness-7554",
+              "label": "Construction Checklist",
+              "type": "select",
+              "description": "",
+              "validation": "options@green-bar-6323:1"
+            }
+          ]
+        },
+        {
+          "id": "ancient-grass-8610",
+          "title": "HSE - Other Observations",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:10;tags@fragrant-leaf-0303:1",
+          "attributes": [
+            {
+              "id": "bitter-breeze-2656",
+              "label": "Suggest Corrective Action",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "green-term-4796",
+          "title": "HSE - Daily Risk Register",
+          "description": "Photo of Items of Concern",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:1;max:3;tags@fragrant-leaf-0303:1",
+          "attributes": [
+            {
+              "id": "black-mode-5576",
+              "label": "Suggest Corrective Action",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "super-haze-1715",
+              "label": "Confirm Date",
+              "type": "date",
+              "description": null,
+              "validation": "required"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
