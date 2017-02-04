@@ -1,0 +1,28 @@
+{
+  "options": [
+    {
+      "key": "staff-gauges",
+      "value": "Staff Gauges"
+    },
+    {
+      "key": "wls",
+      "value": "WLS (water level sensor)"
+    },
+    {
+      "key": "pls-cable",
+      "value": "PLS Cable"
+    },
+    {
+      "key": "equipment-housing",
+      "value": "Equipment housing"
+    },
+    {
+      "key": "equipment",
+      "value": "Equipment"
+    },
+    {
+      "key": "fence",
+      "value": "Fence"
+    }
+  ]
+}
