@@ -1,0 +1,16 @@
+{
+  "options": [
+    {
+      "key": "accepted",
+      "value": "Accepted"
+    },
+    {
+      "key": "accepted-with-conditions",
+      "value": "Accepted with noted Conditions"
+    },
+    {
+      "key": "rejected",
+      "value": "Rejected"
+    }
+  ]
+}
