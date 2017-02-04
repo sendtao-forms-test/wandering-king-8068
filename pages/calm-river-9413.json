@@ -1,0 +1,161 @@
+{
+  "title": "Tower Conditions (Guyed & Self-Supporting Structures)",
+  "sections": [
+    {
+      "id": "yellow-dawn-3323",
+      "title": "Tower Conditions",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "floral-frog-0081",
+          "title": "Bent members (legs and bracing)",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "spring-grass-2623",
+          "title": "Loose members",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "bold-brook-4967",
+          "title": "Missing members",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "holy-water-0235",
+          "title": "Climbing facilities, platforms, catwalks",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "snowy-grass-4620",
+          "title": "Loose and/or missing bolts",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    },
+    {
+      "id": "sparkling-sun-3447",
+      "title": "Tower Dressing",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "curly-heart-4926",
+          "title": "Galvanising condition",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "blue-base-2999",
+          "title": "Rust and/or corrosion conditions",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "orange-butterfly-8011",
+          "title": "Painting as O.A.C.C.I International Standard",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    },
+    {
+      "id": "bold-darkness-9351",
+      "title": "Lighting",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "long-cake-5690",
+          "title": "All beaconing components are present",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "broad-fog-9667",
+          "title": "Condition and functioning of beaconing components",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "silent-surf-5916",
+          "title": "Grounding",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "still-breeze-8297",
+          "title": "All bulbs are functioning",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    },
+    {
+      "id": "damp-tree-0183",
+      "title": "Grounding and lighting",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "damp-darkness-2793",
+          "title": "Connections checked and secure",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "snowy-star-6324",
+          "title": "Connections of coaxial cables",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "little-lake-7291",
+          "title": "Lighting protection secure",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "sweet-block-4033",
+          "title": "Earth Measurement Test",
+          "type": "IMAGE_QUESTION",
+          "description": "Images",
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
