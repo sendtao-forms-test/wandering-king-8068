@@ -1,0 +1,100 @@
+{
+  "title": "Guyed Tower",
+  "sections": [
+    {
+      "id": "old-silence-9668",
+      "title": "Anchors",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "shy-sun-1253",
+          "title": "Settlement, movement or earth cracks",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "silent-base-0669",
+          "title": "Anchor rod condition below earth (300mm minimum)",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "sweet-moon-0171",
+          "title": "Anchor head clear of earth",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    },
+    {
+      "id": "autumn-moon-3926",
+      "title": "Guyed Ropes",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "yellow-pine-0406",
+          "title": "The Verticality - Tower level and vertical",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "proud-art-4128",
+          "title": "The Twist and Lean",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "long-hat-4478",
+          "title": "Size",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "small-mode-4859",
+          "title": "Tension",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "icy-surf-9917",
+          "title": "Strand - Elevation",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "gentle-fire-8028",
+          "title": "Condition (corrosion, breaks, nicks, kinks, etc)",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
