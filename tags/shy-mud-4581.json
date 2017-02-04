@@ -1,0 +1,269 @@
+{
+  "tags": [
+    {
+      "name": "Checklist",
+      "slug": "checklist",
+      "category": "item"
+    },
+    {
+      "name": "Fuel line",
+      "slug": "fuel-line",
+      "category": "item"
+    },
+    {
+      "name": "Register",
+      "slug": "register",
+      "category": "item"
+    },
+    {
+      "name": "Tower",
+      "slug": "tower",
+      "category": "item"
+    },
+    {
+      "name": "Quality",
+      "slug": "quality",
+      "category": "item"
+    },
+    {
+      "name": "Design",
+      "slug": "design",
+      "category": "item"
+    },
+    {
+      "name": "Earthing",
+      "slug": "earthing",
+      "category": "item"
+    },
+    {
+      "name": "Rebar",
+      "slug": "rebar",
+      "category": "item"
+    },
+    {
+      "name": "Shutters & Templates",
+      "slug": "shutters-templates",
+      "category": "item"
+    },
+    {
+      "name": "Fence",
+      "slug": "fence",
+      "category": "item"
+    },
+    {
+      "name": "Concrete cast",
+      "slug": "concrete-cast",
+      "category": "item"
+    },
+    {
+      "name": "Concrete plinth",
+      "slug": "concrete-plinth",
+      "category": "item"
+    },
+    {
+      "name": "Concrete apron",
+      "slug": "concrete-apron",
+      "category": "item"
+    },
+    {
+      "name": "Concrete ramp",
+      "slug": "concrete-ramp",
+      "category": "item"
+    },
+    {
+      "name": "Shelters",
+      "slug": "shelters",
+      "category": "item"
+    },
+    {
+      "name": "Distribution box",
+      "slug": "distribution-box",
+      "category": "item"
+    },
+    {
+      "name": "Problem",
+      "slug": "problem",
+      "category": "action"
+    },
+    {
+      "name": "Need attention",
+      "slug": "need-attention",
+      "category": "action"
+    },
+    {
+      "name": "Need stock",
+      "slug": "need-stock",
+      "category": "action"
+    },
+    {
+      "name": "OK",
+      "slug": "ok",
+      "category": "action"
+    },
+    {
+      "name": "Contact",
+      "slug": "contact",
+      "category": "action"
+    },
+    {
+      "name": "Rectify",
+      "slug": "rectify",
+      "category": "action"
+    },
+    {
+      "name": "Client",
+      "slug": "client",
+      "category": "responsibility"
+    },
+    {
+      "name": "Confidential",
+      "slug": "confidential",
+      "category": "responsibility"
+    },
+    {
+      "name": "QA Manager",
+      "slug": "qa-manager",
+      "category": "responsibility"
+    },
+    {
+      "name": "Project Manager",
+      "slug": "project-manager",
+      "category": "responsibility"
+    },
+    {
+      "name": "HSE Manager",
+      "slug": "hse-manager",
+      "category": "responsibility"
+    },
+    {
+      "name": "Supervisor",
+      "slug": "supervisor",
+      "category": "responsibility"
+    },
+    {
+      "name": "Supplier",
+      "slug": "supplier",
+      "category": "responsibility"
+    },
+    {
+      "name": "Fall protection",
+      "slug": "fall-protection",
+      "category": "item"
+    },
+    {
+      "name": "Generator",
+      "slug": "generator",
+      "category": "item"
+    },
+    {
+      "name": "Machine",
+      "slug": "machine",
+      "category": "item"
+    },
+    {
+      "name": "Nuts / Bolts",
+      "slug": "nuts-bolts",
+      "category": "item"
+    },
+    {
+      "name": "PPE",
+      "slug": "ppe",
+      "category": "item"
+    },
+    {
+      "name": "Electrical",
+      "slug": "electrical",
+      "category": "item"
+    },
+    {
+      "name": "Waste",
+      "slug": "waste",
+      "category": "item"
+    },
+    {
+      "name": "Fire extinguisher",
+      "slug": "fire-extinguisher",
+      "category": "item"
+    },
+    {
+      "name": "First aid kit",
+      "slug": "first-aid-kit",
+      "category": "item"
+    },
+    {
+      "name": "Site signage",
+      "slug": "site-signage",
+      "category": "item"
+    },
+    {
+      "name": "Housekeeping",
+      "slug": "housekeeping",
+      "category": "item"
+    },
+    {
+      "name": "Environmental",
+      "slug": "environmental",
+      "category": "item"
+    },
+    {
+      "name": "Excavation",
+      "slug": "excavation",
+      "category": "item"
+    },
+    {
+      "name": "HSE Documents",
+      "slug": "hse-documents",
+      "category": "item"
+    },
+    {
+      "name": "Climbing equipment",
+      "slug": "climbing-equipment",
+      "category": "item"
+    },
+    {
+      "name": "Rigging equipment",
+      "slug": "rigging-equipment",
+      "category": "item"
+    },
+    {
+      "name": "Vehicle",
+      "slug": "vehicle",
+      "category": "item"
+    },
+    {
+      "name": "Crane",
+      "slug": "crane",
+      "category": "item"
+    },
+    {
+      "name": "Lifting equipment",
+      "slug": "lifting-equipment",
+      "category": "item"
+    },
+    {
+      "name": "Equipment",
+      "slug": "equipment",
+      "category": "item"
+    },
+    {
+      "name": "Equipment housing",
+      "slug": "equipment-housing",
+      "category": "item"
+    },
+    {
+      "name": "PLS Cable",
+      "slug": "pls",
+      "category": "item"
+    },
+    {
+      "name": "WLS (water level sensor)",
+      "slug": "wls",
+      "category": "item"
+    },
+    {
+      "name": "Staff Gauges",
+      "slug": "staff-gauges",
+      "category": "item"
+    }
+  ]
+}
