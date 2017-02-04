@@ -1,0 +1,116 @@
+{
+  "title": "Tower Base Foundation",
+  "sections": [
+    {
+      "id": "shy-brook-2044",
+      "title": "Ground Conditions",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "plain-shape-0704",
+          "title": "Settlements or movements",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "broad-river-1471",
+          "title": "Erosion",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "hidden-haze-4798",
+          "title": "Site condition (standing water, drainage, trees, etc)",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    },
+    {
+      "id": "little-rain-7396",
+      "title": "Base Condition",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "purple-glitter-0430",
+          "title": "Tightness of nuts and lock nuts",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "tight-sky-2016",
+          "title": "Grout condition",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "tight-sky-2016",
+          "title": "Signature",
+          "description": "Enter manager signature",
+          "type": "SIGNATURE_QUESTION",
+          "array": false,
+          "validation": null,
+          "attributes": null
+        }
+      ]
+    },
+    {
+      "id": "flat-dream-9216",
+      "title": "Concrete Conditions",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "holy-feather-3417",
+          "title": "Crackling or splitting",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "hidden-hat-3269",
+          "title": "Chipped or broken concrete",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "small-hat-4064",
+          "title": "Sagging of concrete",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        },
+        {
+          "id": "wandering-fire-6631",
+          "title": "Concrete Measurement Test",
+          "description": "Images",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "min:3;max:20;tags@fragrant-leaf-0303:1",
+          "attributes": null
+        }
+      ]
+    }
+  ]
+}
