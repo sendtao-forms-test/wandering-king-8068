@@ -1,0 +1,80 @@
+{
+  "options": [
+    {
+      "key": "site-establishment-and-leveling",
+      "value": "A - SITE ESTABLISHMENT AND LEVELING"
+    },
+    {
+      "key": "access-road",
+      "value": "B - ACCESS ROAD"
+    },
+    {
+      "key": "excavation-and-blinding",
+      "value": "C - EXCAVATION AND BLINDING"
+    },
+    {
+      "key": "rebar-casting-and-site-leveling",
+      "value": "D - REBAR / CASTING AND SITE LEVELING"
+    },
+    {
+      "key": "site-earthing",
+      "value": "E - SITE EARTHING"
+    },
+    {
+      "key": "concrete-plinths",
+      "value": "F - CONCRETE PLINTHS"
+    },
+    {
+      "key": "fencing",
+      "value": "G - FENCING"
+    },
+    {
+      "key": "apron",
+      "value": "H - APRON"
+    },
+    {
+      "key": "container-shelter-assembly",
+      "value": "I - CONTAINER/SHELTER ASSEMBLY"
+    },
+    {
+      "key": "container-shelter-reticulation-fixtures-wiring",
+      "value": "J - CONTAINER/SHELTER RETICULATION FIXTURES & WIRING"
+    },
+    {
+      "key": "container-shelter",
+      "value": "K - CONTAINER/SHELTER"
+    },
+    {
+      "key": "tower",
+      "value": "L - TOWER"
+    },
+    {
+      "key": "painting",
+      "value": "M - PAINTING"
+    },
+    {
+      "key": "generator-and-fuel-tank-installation",
+      "value": "N - GENERATOR AND FUEL TANK INSTALLATION"
+    },
+    {
+      "key": "outdoor-equipment-installation",
+      "value": "O - OUTDOOR EQUIPMENT INSTALLATION"
+    },
+    {
+      "key": "electrical-installation",
+      "value": "P - ELECTRICAL INSTALLATION"
+    },
+    {
+      "key": "rf-installation",
+      "value": "Q - RF INSTALLATION"
+    },
+    {
+      "key": "roads",
+      "value": "R - ROADS"
+    },
+    {
+      "key": "site-cleaning",
+      "value": "S - SITE CLEANING"
+    }
+  ]
+}
