@@ -1,0 +1,51 @@
+{
+  "title": "Telecom Tower Inspection",
+  "type": "LIFECYCLE",
+  "_start": "green-tooth-2998:1",
+  "pages": [
+    {
+      "page": "green-tooth-2998:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::broad-fire-3646:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "broad-fire-3646:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::broken-bar-2639:2",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "broken-bar-2639:2",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::old-hill-0412:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "old-hill-0412:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::broken-heart-5926:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "broken-heart-5926:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "SUBMIT",
+        "_false": "CORRECT"
+      }
+    }
+  ],
+  "tags": [
+    "fragrant-leaf-0303:1"
+  ],
+  "options": null
+}
