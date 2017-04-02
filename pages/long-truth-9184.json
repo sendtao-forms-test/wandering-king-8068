@@ -1,0 +1,220 @@
+{
+  "title": "Site Candidate",
+  "sections": [
+    {
+      "id": "fragrant-bird-4820",
+      "title": "Site Candidate",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "shiny-snow-4539",
+          "title": "Landlord details",
+          "description": "Enter the landlord(s) details",
+          "type": "DEFAULT_QUESTION",
+          "array": true,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "winter-sea-4826",
+              "label": "Landlords name",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "holy-grass-5224",
+              "label": "Landlords contact number",
+              "type": "phone",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "royal-band-7160",
+              "label": "Landlords e-mail address",
+              "type": "email",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "mute-frog-5340",
+              "label": "Landlords address",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "lucky-math-9061",
+          "title": "Site details",
+          "description": "Enter the details for a candidate site",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "spring-smoke-8129",
+              "label": "Compound size (e.g. plot 15x15m)",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "falling-feather-0400",
+              "label": "Site address",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "spring-poetry-4757",
+              "label": "Directions from nearest main road",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "autumn-mountain-9445",
+              "label": "Soil type",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "tight-heart-6353",
+              "label": "Possible tower height",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "small-dew-6171",
+              "label": "Possible Antenna configuration",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "icy-leaf-4901",
+              "label": "Will persons be required to resettle from their homes if constructed",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "old-truth-5548",
+              "label": "Will there be lasting damage to flora / fauna if constructed",
+              "type": "check",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "broken-recipe-7013",
+          "title": "Likelihood of Success",
+          "description": "How likely is the site going to get build here",
+          "type": "DEFAULT_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "summer-leaf-2894",
+              "label": "Likelyhood of permissing success (%)",
+              "type": "integer",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "polished-queen-3690",
+              "label": "Likelihood of reaching agreement (%)",
+              "type": "integer",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "dark-base-5576",
+          "title": "Nearby places",
+          "description": "Enter the distance from nearby points of interest",
+          "type": "DEFAULT_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "broad-sunset-2047",
+              "label": "Distance from road",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "super-cake-6811",
+              "label": "Distance from power",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "restless-bread-8451",
+              "label": "Distance from nearest property",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "wispy-recipe-9721",
+              "label": "Distance from nearest school",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "still-sea-4513",
+              "label": "Any building challenges",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "black-band-0623",
+              "label": "Any maintenance challenges",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "fancy-snow-2664",
+              "label": "Distance from nearest hospital",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "restless-morning-1265",
+              "label": "Distance from water course",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "withered-bread-4541",
+              "label": "Does the land flood",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "morning-mode-4476",
+              "label": "Distance from nearest church",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
