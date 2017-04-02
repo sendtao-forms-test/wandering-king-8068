@@ -1,0 +1,39 @@
+{
+  "title": "Site Pictures",
+  "sections": [
+    {
+      "id": "square-sun-2180",
+      "title": "@parent",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "shy-king-7370",
+          "title": "Nominal Pictures",
+          "description": "",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": []
+        },
+        {
+          "id": "summer-truth-6903",
+          "title": "General Village Pictures",
+          "description": "",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": []
+        },
+        {
+          "id": "square-resonance-3794",
+          "title": "Road Pictures",
+          "description": "",
+          "type": "IMAGE_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": []
+        }
+      ]
+    }
+  ]
+}
