@@ -1,0 +1,421 @@
+{
+  "title": "Site Information",
+  "sections": [
+    {
+      "id": "proud-sound-8497",
+      "title": "General Information",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "odd-butterfly-7931",
+          "title": "Contact Person",
+          "description": "Contact person(s) details",
+          "type": "DEFAULT_QUESTION",
+          "array": true,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "autumn-wildflower-3790",
+              "label": "Title",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "autumn-morning-9071",
+              "label": "Full name",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "shy-block-0679",
+              "label": "Telephone number",
+              "type": "phone",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "fragrant-sunset-8690",
+              "label": "Cell phone number",
+              "type": "phone",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "black-morning-0204",
+              "label": "E-mail address",
+              "type": "email",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "empty-flower-5996",
+          "title": "Population",
+          "description": "Population in the area",
+          "type": "DEFAULT_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "billowing-mud-4593",
+              "label": "Population",
+              "type": "integer",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "late-lab-0697",
+              "label": "Source",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "jolly-glade-7212",
+              "label": "% female population",
+              "type": "integer",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "late-truth-0139",
+              "label": "% male population",
+              "type": "integer",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "fragrant-rain-0038",
+              "label": "% youth population",
+              "type": "integer",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "bitter-dust-0187",
+          "title": "Main Activities",
+          "description": "Main activities in the area",
+          "type": "DEFAULT_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "delicate-shadow-2350",
+              "label": "Market",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "lingering-wind-7814",
+              "label": "Factories",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "proud-cloud-5933",
+              "label": "School",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "broken-shadow-3772",
+              "label": "Hospital",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "muddy-darkness-4076",
+              "label": "Military Camp",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "damp-breeze-5485",
+              "label": "Farm",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "royal-sunset-6254",
+              "label": "Mining",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "falling-haze-1958",
+              "label": "Others",
+              "type": "check",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "red-pond-5887",
+          "title": "Nearby villages potentially to be covered",
+          "description": "Enter a list of nearby villages that could be covered",
+          "type": "DEFAULT_QUESTION",
+          "array": true,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "old-sea-8064",
+              "label": "Village name",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "damp-lab-1314",
+              "label": "Distance",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "raspy-base-5588",
+          "title": "Nearest main city",
+          "description": "Enter a list of nearby cities",
+          "type": "DEFAULT_QUESTION",
+          "array": true,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "rough-sun-4792",
+              "label": "City name",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "damp-sea-1444",
+              "label": "Distance",
+              "type": "input",
+              "description": null,
+              "validation": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bitter-mud-7100",
+      "title": "Provider signal strength",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "black-bread-7132",
+          "title": "Provider signal strength",
+          "description": "Enter a list of cell providers and signal strength for each compass direction.",
+          "type": "DEFAULT_QUESTION",
+          "array": true,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "bitter-wildflower-3337",
+              "label": "Provider",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "yellow-queen-2487",
+              "label": "Center",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "black-glitter-9370",
+              "label": "North",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "holy-dew-3024",
+              "label": "East",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "lucky-mode-4278",
+              "label": "West",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "green-morning-0715",
+              "label": "South",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "young-moon-8889",
+              "label": "Photos",
+              "type": "media",
+              "description": null,
+              "validation": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "floral-band-1602",
+      "title": "Logistics and environmental information",
+      "type": "DEFAULT_SITE",
+      "questions": [
+        {
+          "id": "black-bread-7132",
+          "title": "Logistics information",
+          "description": "",
+          "type": "DEFAULT_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "red-butterfly-8009",
+              "label": "Distance from main road",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "rough-wildflower-8726",
+              "label": "Distance from other road",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "steep-breeze-6610",
+              "label": "Any river to cross",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "orange-fire-3670",
+              "label": "How to cross river?",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "quiet-voice-9308",
+              "label": "Existing airfield",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "late-grass-8483",
+              "label": "Flight path",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "bitter-glitter-0815",
+              "label": "Any health and safety issues",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "withered-dawn-9460",
+              "label": "Any existing tower around",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "misty-mud-9386",
+              "label": "Access by crane, truch lorry",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "mute-thunder-5862",
+              "label": "Access by 4x4",
+              "type": "check",
+              "description": null,
+              "validation": null
+            }
+          ]
+        },
+        {
+          "id": "grateful-bird-3131",
+          "title": "Environmental information",
+          "description": "",
+          "type": "DEFAULT_QUESTION",
+          "array": false,
+          "validation": "",
+          "attributes": [
+            {
+              "id": "falling-fog-1258",
+              "label": "Does the land flood",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "wandering-leaf-8487",
+              "label": "If the land floods, what frequency",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "shrill-violet-5343",
+              "label": "Distance from water course",
+              "type": "input",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "yellow-darkness-7098",
+              "label": "National Park",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "summer-frost-2948",
+              "label": "Environmentally Sensitive",
+              "type": "check",
+              "description": null,
+              "validation": null
+            },
+            {
+              "id": "proud-tooth-0229",
+              "label": "Other land restrictions",
+              "type": "check",
+              "description": null,
+              "validation": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
