@@ -1,0 +1,33 @@
+{
+  "title": "Site Identification Report and Checklist",
+  "type": "DAILY",
+  "_start": "twilight-water-4947:1",
+  "pages": [
+    {
+      "page": "twilight-water-4947:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::long-truth-9184:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "long-truth-9184:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "GOTO::dark-band-0108:1",
+        "_false": "CORRECT"
+      }
+    },
+    {
+      "page": "dark-band-0108:1",
+      "condition": {
+        "label": "Have all the answers in this section been completed successfully.",
+        "_true": "SUBMIT",
+        "_false": "CORRECT"
+      }
+    }
+  ],
+  "tags": null,
+  "options": null
+}
