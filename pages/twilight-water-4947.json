@@ -10,7 +10,7 @@
           "id": "odd-butterfly-7931",
           "title": "Contact Person",
           "description": "Contact person(s) details",
-          "type": "DEFAULT_QUESTION",
+          "type": "IMAGE_QUESTION",
           "array": true,
           "validation": "",
           "attributes": [
@@ -218,7 +218,7 @@
       "type": "DEFAULT_SITE",
       "questions": [
         {
-          "id": "black-bread-7132",
+          "id": "black-horse-1212",
           "title": "Provider signal strength",
           "description": "Enter a list of cell providers and signal strength for each compass direction.",
           "type": "DEFAULT_QUESTION",
@@ -280,14 +280,14 @@
     },
     {
       "id": "floral-band-1602",
-      "title": "Logistics and environmental information",
+      "title": "Logistics and Environment",
       "type": "DEFAULT_SITE",
       "questions": [
         {
           "id": "black-bread-7132",
           "title": "Logistics information",
           "description": "",
-          "type": "DEFAULT_QUESTION",
+          "type": "IMAGE_QUESTION",
           "array": false,
           "validation": "",
           "attributes": [
@@ -367,7 +367,7 @@
           "id": "grateful-bird-3131",
           "title": "Environmental information",
           "description": "",
-          "type": "DEFAULT_QUESTION",
+          "type": "IMAGE_QUESTION",
           "array": false,
           "validation": "",
           "attributes": [
