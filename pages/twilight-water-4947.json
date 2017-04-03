@@ -221,7 +221,7 @@
           "id": "black-horse-1212",
           "title": "Provider signal strength",
           "description": "Enter a list of cell providers and signal strength for each compass direction.",
-          "type": "DEFAULT_QUESTION",
+          "type": "IMAGE_QUESTION",
           "array": true,
           "validation": "",
           "attributes": [
@@ -264,13 +264,6 @@
               "id": "green-morning-0715",
               "label": "South",
               "type": "input",
-              "description": null,
-              "validation": null
-            },
-            {
-              "id": "young-moon-8889",
-              "label": "Photos",
-              "type": "media",
               "description": null,
               "validation": null
             }
