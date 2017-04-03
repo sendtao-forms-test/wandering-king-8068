@@ -10,7 +10,7 @@
           "id": "shiny-snow-4539",
           "title": "Landlord details",
           "description": "Enter the landlord(s) details",
-          "type": "DEFAULT_QUESTION",
+          "type": "IMAGE_QUESTION",
           "array": true,
           "validation": "",
           "attributes": [
@@ -47,7 +47,7 @@
         {
           "id": "lucky-math-9061",
           "title": "Site details",
-          "description": "Enter the details for a candidate site",
+          "description": "Capture the details for a candidate site",
           "type": "IMAGE_QUESTION",
           "array": false,
           "validation": "",
@@ -138,7 +138,7 @@
           "id": "dark-base-5576",
           "title": "Nearby places",
           "description": "Enter the distance from nearby points of interest",
-          "type": "DEFAULT_QUESTION",
+          "type": "IMAGE_QUESTION",
           "array": false,
           "validation": "",
           "attributes": [
